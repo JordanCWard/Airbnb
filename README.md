@@ -1,4 +1,4 @@
 # Read Me
 
-#### See Airbnb Amenities (SQL) at the portfolio link below for more details.
+#### See Airbnb Amenities (SQL) at the link below for more details.
 www.jordancward.com
